@@ -1,6 +1,6 @@
 {
-  "name": "starwars-names",
-  "version": "1.0.0",
+  "name": "starwars-test-names",
+  "version": "1.1.0",
   "description": "Test project",
   "main": "./src/index.js",
   "scripts": {
